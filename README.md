@@ -9,9 +9,9 @@
     <li>Abrir Links</li>
     <li>Acessar Pastas</li>
     <li>Selecionar Arquivos</li>
-    <li>Fazer Downloads</li>
+    <li>Importar base de dados(fazer download)</li>
     <li>Ler arquivo Excel</li>
-    <li>Enviar E-mails</li>
+    <li>Enviar E-mail automático</li>
   </ul>
   </div>
 </section>
@@ -29,13 +29,10 @@
    Conhecimentos aprendidos
   <div>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Análise de dados</li>
+   <li>Tramento de dados</li>
+   <li>Gráficos em python</li>
+   <li>Tabelas(DataFrames)</li>
   </ul>
   </div>
 </section>
@@ -52,13 +49,10 @@
    Conhecimentos aprendidos
   <div>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Automação Web</li>
+    <li>Selenium</li>
+    <li>Exportar relatórios </li>
+    <li>Pesquisa automática </li>
   </ul>
   </div>
 </section>
@@ -74,13 +68,11 @@
    Conhecimentos aprendidos
   <div>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Ciência de Dados</li>
+    <li>Análise Exploratória</li>
+    <li>Inteligência Artificial</li>
+    <li>Previsão de Vendas</li>
+    <li>Análise de Modelos</li>
   </ul>
   </div>
 </section>
