@@ -9,7 +9,7 @@
     <li>Abrir Links</li>
     <li>Acessar Pastas</li>
     <li>Selecionar Arquivos</li>
-    <li>Importar base de dados(fazer download)</li>
+    <li>Importar base de dados</li>
     <li>Ler arquivo Excel</li>
     <li>Enviar E-mail automático</li>
   </ul>
@@ -29,7 +29,6 @@
    Conhecimentos aprendidos
   <div>
   <ul>
-    <li>Análise de dados</li>
    <li>Tramento de dados</li>
    <li>Gráficos em python</li>
    <li>Tabelas(DataFrames)</li>
@@ -49,7 +48,6 @@
    Conhecimentos aprendidos
   <div>
   <ul>
-    <li>Automação Web</li>
     <li>Selenium</li>
     <li>Exportar relatórios </li>
     <li>Pesquisa automática </li>
@@ -63,7 +61,7 @@
    </ul>
 </div>
 
-<h1>Machine learning + datascience #4</h1>
+<h1>Machine Learning + Datascience #4</h1>
 <section>
    Conhecimentos aprendidos
   <div>
