@@ -5,13 +5,8 @@
    Conhecimentos aprendidos
   <div>
   <ul>
-    <li>Criar uma aba no navegador</li>
-    <li>Abrir Links</li>
-    <li>Acessar Pastas</li>
-    <li>Selecionar Arquivos</li>
-    <li>Importar base de dados</li>
-    <li>Ler arquivo Excel</li>
-    <li>Enviar E-mail automático</li>
+    <li>Criar uma aba no navegador - Abrir Links - Acessar Pastas - Selecionar Arquivos - Importar base de dados - Ler arquivo Excel - Enviar E-mail automático</li>
+    <li>Abrir página - Fazer login - Exportar base de dados - Calcular os indicadores</li>
   </ul>
   </div>
 </section>
