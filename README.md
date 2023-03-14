@@ -1,4 +1,4 @@
-#Projetos desenvolvidos durante o <strong>Intensivão de Python</strong> da Hashtag Programação.
+#exercicios para evolução, desenvolvidos durante o <strong>Intensivão de Python</strong> da Hashtag Programação.
 
 <h1>Automatização de processos #1</h1>
 <section>
