@@ -6,7 +6,7 @@
   <div>
   <ul>
     <li>Criar uma aba no navegador - Abrir Links - Acessar Pastas - Selecionar Arquivos - Importar base de dados - Ler arquivo Excel - Enviar E-mail automático</li>
-    <li>Abrir página - Fazer login - Exportar base de dados - Calcular os indicadores</li>
+    <li>Abrir página - Fazer login - Exportar base de dados - Calcular os indicadores - Enviar e-mail</li>
   </ul>
   </div>
 </section>
