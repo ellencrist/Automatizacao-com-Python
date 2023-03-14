@@ -2,7 +2,7 @@
 
 <h1>Automatização de processos #1</h1>
 <section>
-   práticas realizadas
+   Práticas realizadas
   <div>
   <ul>
     <li>Criar uma aba no navegador - Abrir Links - Acessar Pastas - Selecionar Arquivos - Importar base de dados - Ler arquivo Excel - Enviar E-mail automático</li>
@@ -22,7 +22,7 @@
 
 <h1>Analise de dados #2</h1>
 <section>
-   Conhecimentos aprendidos
+   Práticas realizadas
   <div>
   <ul>
    <li>Tramento de dados</li>
@@ -41,7 +41,7 @@
 
 <h1>Automação web - Web Scraping #3</h1>
 <section>
-   Conhecimentos aprendidos
+   Práticas realizadas
   <div>
   <ul>
     <li>Selenium</li>
@@ -59,7 +59,7 @@
 
 <h1>Machine Learning + Datascience #4</h1>
 <section>
-   Conhecimentos aprendidos
+   Práticas realizadas
   <div>
   <ul>
     <li>Ciência de Dados</li>
